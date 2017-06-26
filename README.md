@@ -4,8 +4,8 @@
 You will be writing a simple program involving both input and output. The program initially prompts the user for his or her name. After the prompt the program should acquire a name through input. Once the name is acquired, the program asks the user a question about nice days. After which, the user will enter how many nice days he or she wants. Lastly, the program outputs a response back to the user; the response will use all the provided inputs, and double the number of nice days!
 
 ## Setup
-1. Create a file named lab2.cppwithin the proper directory for Lab 2.
-2. Fill the file with the contents of your lab1.cppfile.
+1. Create a file named lab2.cpp within the proper directory for Lab 2.
+2. Fill the file with the contents of your lab1.cpp file.
 3. Delete everything between main's left and right curly braces, {and }, except the return0;
 4. Make sure the assessment header in your new file is properly filled in.
 
